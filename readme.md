@@ -1,4 +1,4 @@
-On the Expressive Power of Deep Polynomial Networks
+On the Expressive Power of Deep Polynomial Neural Networks
 ==============================================
 
 
